@@ -1,0 +1,160 @@
+.flex-app-main{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+}
+.flex-main{
+    display: flex;
+    width: 23rem;
+    border-radius: 10px;
+    justify-content: space-between;
+    border: 1px solid gray;
+    padding: 1rem;
+    height: 10rem;
+    cursor: pointer;
+}
+.border{
+    width: 23rem;
+    height: 10rem;
+    border-radius: 10px;
+    border: 1px solid gray;
+}
+.border-flex{
+    margin-top: 1rem;
+    margin-left: 1rem;
+    background-color: rgb(0, 132, 255);
+}
+.total{
+    font-size: 12px;
+    margin-top: 10px;
+}
+.count{
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 19px;
+}
+.CallMade{
+    font-size: 12px;
+    margin-top: 20px;
+}
+.CallMadeIcon{
+    zoom: 0.8;
+}
+.MoreHorizIcon{
+    text-align: right;
+    zoom: 0.8;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.App{
+    padding: 2rem;
+}
+.color{
+    color: blueviolet;
+}
+.color-red{
+    color: red;
+}
+.doughnut{
+    zoom: 0.3;
+}
+.doughnut-count{
+    margin-top: -183px;
+    margin-left: 100px;
+    font-size: 54px;
+}
+.chart-main{
+    width: 65%;
+    height: 17rem;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-top: 3rem;
+}
+.second-line{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 3rem;
+}
+.application-main{
+    border: 1px solid gray;
+    width:30%;
+    padding: 1rem;
+    border-radius: 8px;
+    margin-top: 3rem;
+}
+.application{
+    margin-top: 10px;
+    display: flex;
+    gap: 5px;
+}
+.point{
+    width: 10px;
+    height: 10px;
+    margin-top: 5px;
+    border-radius: 50%;
+}
+.chart-level-main{
+    width: 10rem;
+    height: 8px;
+    background-color: gray;
+    margin-top: 8px;
+    margin-left: 5px;
+}
+.sent{
+    color: indianred;
+}
+.sent-main{
+    display: flex;
+    gap: 1rem;
+}
+.pre-main{
+    width: 65%;
+    border: 1px solid gray;
+    border-radius: 10px;
+    margin-top: 3rem;
+    padding: 1rem;
+}
+.compoign-main{
+    display: flex;
+    justify-content: space-between;
+}
+.CallMad-blue{
+    color: rgb(0, 110, 255);
+    margin-top: 10px;
+}
+.referals{
+    text-align: center;
+    width: 10rem;
+    margin-top: 2rem;
+    border-right: 1px solid gray;
+}
+.second-compoign-main{
+    display: flex;
+    margin-top: 1rem;
+}
+.button{
+    outline: none;
+    background-color: rgb(0, 162, 255);
+    border: 1px solid gray;
+    width: 15rem;
+}
+.button-color{
+    outline: none;
+    background-color: indianred;
+    border: 1px solid gray;
+    width: 15rem;
+}
+.button-main{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3rem;
+}
+.position-main{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+.third-main{
+    display: flex;
+    gap: 3rem;
+}
